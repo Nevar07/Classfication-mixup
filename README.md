@@ -8,6 +8,7 @@
 -->
 # Classfication-mixup
 图像分类通用模型，监督半监督
+预训练权重放在'src/weights'下
 
 swin transformer 在ImageNet上的预训练权重下载
 
